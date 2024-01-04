@@ -25,6 +25,6 @@ Com uma paixão pelo aprendizado contínuo e pela resolução de desafios comple
 ## Projetos Destacados
 - [Aprovação de empréstimos](https://github.com/JosenildoJunior/Competicao_ML/blob/main/11%C2%AA_CompeticaoFLAI_2_0.ipynb): Um modelo capaz de tomar decisões sobre a viabilidade de conceder um novo empréstimo a um cliente.
 - [Detecção de Transações Fraudulentas](https://github.com/JosenildoJunior/Fraud_prediction): Um modelo de Machine Learning para identificar transações fraudulentas em dados financeiros.
-
+- [StatPyDataScience](https://github.com/JosenildoJunior/StatPyDataScience): Um repositório que facilita a aprendizagem de estatística em Python, com foco na aplicação em ciência de dados.
 ## Vamos nos Conectar!
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para discussões técnicas, colaborações ou apenas para dizer oi. Vamos juntos moldar o futuro da tecnologia! 🚀
