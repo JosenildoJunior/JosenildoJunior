@@ -21,7 +21,7 @@ Aqui estão algumas das minhas habilidades e áreas de conhecimento:
 Com uma paixão pelo aprendizado contínuo e pela resolução de desafios complexos, estou sempre buscando expandir meu conjunto de habilidades e colaborar em projetos interessantes.
 
 ## Projetos Destacados 🌟
-- 
+- [DepressionAnalysis](https://github.com/JosenildoJunior/DepressionAnalysis): Este repositório apresenta uma análise da depressão entre adultos nos EUA (2005-2006), com foco em seus perfis e hábitos.
 - [StatPyDataScience](https://github.com/JosenildoJunior/StatPyDataScience): Um repositório que facilita a aprendizagem de estatística em Python, com foco na aplicação em ciência de dados.
   
 ## Vamos nos Conectar! 🤝
